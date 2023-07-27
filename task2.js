@@ -12,6 +12,6 @@ function sumOfPositiveNumbers(numArray) {
 }
 
 // Example
-const numbers = [7, -5, 3, 4, -9, -6];
+const numbers = [2, -5, 10, -3, 7];
 const result = sumOfPositiveNumbers(numbers);
 console.log(result);
